@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    color: #fbf9e7;
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+   max-width: 1000px;
+    padding: 1.5%;
+    border-radius: 50px;
+    margin-top: 2%;
+    background-color: rgb(167, 133, 94);
+}
